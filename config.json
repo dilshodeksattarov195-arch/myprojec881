@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercrocess",
+        "uuid": 8501650,
+        "checksum": "s5nus"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
